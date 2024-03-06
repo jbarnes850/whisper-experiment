@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Voice Memo AI Assistant is a cutting-edge personal assistant designed to help users gain valuable insights from their voice recordings. This MVP focuses on processing voice memos from iPhone or Apple Watch, securely stored in iCloud. It transcribes these recordings, summarizes the content, and allows for interactive queries through SMS or Telegram. Emphasizing user privacy and data security, the system aims to improve understanding and context over time.
+The Voice Memo AI Assistant transforms your voice recordings into actionable insights. Whether you're using an iPhone or Apple Watch, your voice memos are securely processed from iCloud storage. Imagine having your own personal scribe that not only transcribes your words but also distills them into concise summaries. Beyond transcription, this app allows you to interact with your data through SMS or Telegram, asking questions and receiving context-specific responses. With a commitment to privacy and security, the Voice Memo AI Assistant evolves with you, continually enhancing its understanding of your needs and preferences.
 
 ## Data Pipeline Overview
 
