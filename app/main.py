@@ -5,6 +5,7 @@ from metadata_extraction import extract_all_metadata
 from summarization import summarize_all_transcriptions
 from storage import save_all_data
 from user_interaction import start_interaction_service
+from metadata_extraction import extract_speaker_embeddings
 from utils import log_event
 
 def main():
