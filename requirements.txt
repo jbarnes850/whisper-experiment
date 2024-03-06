@@ -1,0 +1,7 @@
+requests
+pyTelegramBotAPI
+cryptography
+openai
+torchaudio
+speechbrain
+twilio
